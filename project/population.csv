@@ -1,4 +1,4 @@
-﻿date,region ,number_of_households,population_sum,population_male,population_female,population_18over_sum,population_18over_male,population_18over_female,population_65over_sum,population_65over_male,population_65over_female,  통  ,  반  ,area,composition_ratio
+﻿date,region,number_of_households,population_sum,population_male,population_female,population_18over_sum,population_18over_male,population_18over_female,population_65over_sum,population_65over_male,population_65over_female,  통  ,  반  ,area,composition_ratio
 2023-01, 대연1동 ,9290,15787,7993,7794,14775,7486,7289,3677,1577,2100,31,175,1,4
 2023-01, 대연3동 ,16199,33022,16168,16854,28032,13566,14466,4456,1933,2523,33,302,4,14
 2023-01, 대연4동 ,5420,11991,5848,6143,10369,5012,5357,3015,1284,1731,20,153,1,4
